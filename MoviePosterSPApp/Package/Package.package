@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="cffb94ff-516c-4eeb-a466-d99c6952ebf4" 
+        solutionId="cffb94ff-516c-4eeb-a466-d99c6952ebf4" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="MoviePosterSPApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="417a02cf-4e31-4feb-95f5-61bd999233a5" />
+  </features>
+</package>
