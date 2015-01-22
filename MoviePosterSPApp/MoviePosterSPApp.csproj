@@ -50,7 +50,6 @@
       <OpcRelationship>manifest-icon</OpcRelationship>
     </Content>
     <Content Include="Pages\ClientWebPart1.aspx" />
-    <Content Include="Scripts\CrossDomainExec.js" />
     <None Include="ClientWebPart1\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{a00d7c9c-b804-4493-8f19-db5265a6d40e}</SharePointProjectItemId>
     </None>
@@ -72,7 +71,6 @@
     <None Include="Scripts\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{aa0543d3-dbc4-49be-9ba8-9a7ca03f0b21}</SharePointProjectItemId>
     </None>
-    <Content Include="Pages\Index.html" />
     <Content Include="Scripts\Elements.xml" />
     <Content Include="Scripts\App.js" />
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
