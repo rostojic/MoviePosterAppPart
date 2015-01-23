@@ -30,17 +30,14 @@
     <script type="text/javascript" src="/_layouts/15/sp.js"></script>
     <script>
         $(document).ready(function () {
-            //alert("usao");
             $("#searchsubmitInner").click(function () {
                 var bla = $("#sInner").val();
                 var imagePath = "http://d3gtl9l2a4fn1j.cloudfront.net/t/p/w342";
-                //alert(bla);
                 $.ajax({
                     url: "https://api.themoviedb.org/3/search/movie?api_key=f2c99cf74ee4c4214605f5ac1bc00fc6&query=" + bla,
                     dataType: 'json',
                     success: function (result) {
                         var xPath;
-                        // alert(JSON.stringify(result));
                         try {
                             xPath = result.results[0].poster_path;
                             //alert(xPath);
@@ -57,7 +54,6 @@
                             //alert(e);
                             $("#poster").attr("src", "../images/NotFound.jpg");
                         }
-                        //$("#poster").attr("src", "images/NotFound.jpg");
                     }
                 });
             });

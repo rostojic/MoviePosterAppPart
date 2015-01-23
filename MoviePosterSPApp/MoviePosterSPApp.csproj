@@ -43,14 +43,14 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="ClientWebPart1\Elements.xml">
+    <Content Include="MoviePosterApp\Elements.xml">
       <OpcRelationship>feature-elementmanifest</OpcRelationship>
     </Content>
     <Content Include="Images\AppIcon.jpg">
       <OpcRelationship>manifest-icon</OpcRelationship>
     </Content>
-    <Content Include="Pages\ClientWebPart1.aspx" />
-    <None Include="ClientWebPart1\SharePointProjectItem.spdata">
+    <Content Include="Pages\MoviePosterApp.aspx" />
+    <None Include="MoviePosterApp\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{a00d7c9c-b804-4493-8f19-db5265a6d40e}</SharePointProjectItemId>
     </None>
     <None Include="packages.config" />
@@ -72,7 +72,6 @@
       <SharePointProjectItemId>{aa0543d3-dbc4-49be-9ba8-9a7ca03f0b21}</SharePointProjectItemId>
     </None>
     <Content Include="Scripts\Elements.xml" />
-    <Content Include="Scripts\App.js" />
     <Content Include="Scripts\jquery-1.9.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.9.1.js" />
     <Content Include="Scripts\jquery-1.9.1.min.js" />

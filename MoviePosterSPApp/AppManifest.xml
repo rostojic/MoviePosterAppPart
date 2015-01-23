@@ -8,7 +8,7 @@
 >
   <Properties>
     <Title>MoviePosterSPApp</Title>
-    <StartPage>~appWebUrl/Pages/ClientWebPart1.aspx?{StandardTokens}</StartPage>
+    <StartPage>~appWebUrl/Pages/MoviePosterApp.aspx?{StandardTokens}</StartPage>
   </Properties>
 
   <AppPrincipal>
