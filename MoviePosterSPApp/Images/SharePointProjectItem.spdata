@@ -6,5 +6,7 @@
     <ProjectItemFile Source="MovieTape.jpg" Target="Images\" Type="ElementFile" />
     <ProjectItemFile Source="NotFound.jpg" Target="Images\" Type="ElementFile" />
     <ProjectItemFile Source="AppIcon.jpg" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="StartTarabica.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="TarabicaCesta.jpg" Target="Images\" Type="ElementFile" />
   </Files>
 </ProjectItem>

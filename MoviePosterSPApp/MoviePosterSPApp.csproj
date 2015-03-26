@@ -43,6 +43,10 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Images\StartTarabica.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\TarabicaCesta.jpg" />
     <Content Include="MoviePosterApp\Elements.xml">
       <OpcRelationship>feature-elementmanifest</OpcRelationship>
     </Content>

@@ -5,5 +5,7 @@
     <File Path="Images\MovieTape.jpg" Url="Images/MovieTape.jpg" ReplaceContent="TRUE" />
     <File Path="Images\NotFound.jpg" Url="Images/NotFound.jpg" ReplaceContent="TRUE" />
     <File Path="Images\AppIcon.jpg" Url="Images/AppIcon.jpg" ReplaceContent="TRUE" />
+    <File Path="Images\StartTarabica.png" Url="Images/StartTarabica.png" ReplaceContent="TRUE" />
+    <File Path="Images\TarabicaCesta.jpg" Url="Images/TarabicaCesta.jpg" ReplaceContent="TRUE" />
   </Module>
 </Elements>

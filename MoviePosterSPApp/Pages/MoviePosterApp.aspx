@@ -66,7 +66,7 @@
         <input type="submit" id="searchsubmitInner" value="Search" style="width:100px;" />
         <p></p>
        <div id="round">
-           <img width="250px" src='' id="poster" />
+           <img width="250px" src='../Images/TarabicaCesta.jpg'  id="poster" />
        </div>
     </div>
 </body>
